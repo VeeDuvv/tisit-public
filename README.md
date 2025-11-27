@@ -50,6 +50,26 @@ No source code, internal documentation, or sensitive files are ever published.
 
 ---
 
+---
+
+## 📈 Activity Graphs
+
+### 🔹 Commit Activity (Last Year)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=VeeDuvv&repo=tisitv0&theme=github-dark)
+
+### 🔹 Contribution Sparkline
+![Sparkline](https://stars.medv.io/VeeDuvv/tisitv0.svg)
+
+### 🔹 Commit Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=VeeDuvv&theme=dark&hide_border=true)
+
+### 🔹 Developer Metrics Overview
+![Metrics](https://github-readme-stats.vercel.app/api?username=VeeDuvv&show_icons=true&theme=dark)
+
+### 🔹 Commit Punchcard (When you code)
+![Punchcard](https://github-readme-stats.vercel.app/api/pin/?username=VeeDuvv&repo=tisitv0&theme=dark)
+
+
 ## 🧭 About the Project
 TISIT stands for _“What Is It?”_  
 The system helps users explore curiosity, deepen understanding, and build a persistent personal knowledge graph backed by AI.
