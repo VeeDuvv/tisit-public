@@ -15,14 +15,6 @@ This file updates automatically from the private repository `tisitv0` using GitH
 
 ---
 
-## 🏷️ Status & Overview
-
-![Last Commit](https://img.shields.io/github/last-commit/VeeDuvv/tisitv0?color=yellow)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/VeeDuvv/tisitv0?color=green)
-![Repo Size](https://img.shields.io/github/repo-size/VeeDuvv/tisitv0?color=blue)
-
----
-
 ## 🛣️ Roadmap (High-Level)
 _This is a safe, public-facing version. No internal architecture or private code exposure._
 
