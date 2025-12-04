@@ -513,3 +513,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Dec  4 14:13:18 UTC 2025
+
+**Recent Commits:**
+- 353bb75 Merge pull request #87 from VeeDuvv/issue-58-pgvector-migration (13 seconds ago)
+- abc091f Migrate vector storage from ChromaDB to pgvector (Issue #58) (36 minutes ago)
+- dcadf6a Remove local Chroma DB files from git tracking (64 minutes ago)
+- 6525823 Move test files from project root to tests/ directory (64 minutes ago)
+- 2454d9f Merge pull request #86 from VeeDuvv/issue-85-seed-data-requirements (69 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 90
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 89809
+- Lines deleted: 11111
+
+---
+
