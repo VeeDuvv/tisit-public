@@ -1,21 +1,21 @@
 # TISIT Development Progress
 
-Last Updated: Sat Dec  6 11:05:25 UTC 2025
+Last Updated: Sat Dec  6 11:14:32 UTC 2025
 
 ## Recent Commits
-- 711ca47 Add non-English content cleanup script (17 seconds ago)
-- d292103 Merge pull request #91 from VeeDuvv/issue-90-locale-service (47 seconds ago)
-- c651b72 Add centralized LocaleService for English-only internet searches (Issue #90) (16 minutes ago)
-- 4e19ae5 Fix Focus topic reactivation from Radar and add news integration (#88) (31 minutes ago)
+- 5a9770f Trim CLAUDE.md by extracting detailed docs (443→166 lines) (19 seconds ago)
+- 711ca47 Add non-English content cleanup script (9 minutes ago)
+- d292103 Merge pull request #91 from VeeDuvv/issue-90-locale-service (10 minutes ago)
+- c651b72 Add centralized LocaleService for English-only internet searches (Issue #90) (25 minutes ago)
+- 4e19ae5 Fix Focus topic reactivation from Radar and add news integration (#88) (40 minutes ago)
 - 5b1ec88 Merge pull request #89 from VeeDuvv/issue-88-news-agent (19 hours ago)
 - 1b0b4fb Replace ddgs with Google News RSS to fix SIGSEGV crash (Issue #88) (19 hours ago)
 - a1ee3b0 Add Latest News Agent for Focus Mode notes (Issue #88) (21 hours ago)
 - 353bb75 Merge pull request #87 from VeeDuvv/issue-58-pgvector-migration (2 days ago)
 - abc091f Migrate vector storage from ChromaDB to pgvector (Issue #58) (2 days ago)
-- dcadf6a Remove local Chroma DB files from git tracking (2 days ago)
 ## Commit Activity (Last 30 Days)
 - Total commits: 93
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 90676
-- Lines deleted: 10944
+- Lines added: 90145
+- Lines deleted: 10045
