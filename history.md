@@ -666,3 +666,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Mon Dec  8 01:31:49 UTC 2025
+
+**Recent Commits:**
+- 5a9770f Trim CLAUDE.md by extracting detailed docs (443→166 lines) (2 days ago)
+- 711ca47 Add non-English content cleanup script (2 days ago)
+- d292103 Merge pull request #91 from VeeDuvv/issue-90-locale-service (2 days ago)
+- c651b72 Add centralized LocaleService for English-only internet searches (Issue #90) (2 days ago)
+- 4e19ae5 Fix Focus topic reactivation from Radar and add news integration (#88) (2 days ago)
+**Commit Count (30 days):**
+- Total commits: 93
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 90145
+- Lines deleted: 10045
+
+---
+
