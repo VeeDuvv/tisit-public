@@ -1295,3 +1295,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Wed Dec 24 10:56:08 UTC 2025
+
+**Recent Commits:**
+- f3cb986 docs: Add deployment flow documentation to CLAUDE.md (18 seconds ago)
+- edf2108 Fix: Handle null article.title in browse page template (7 minutes ago)
+- 3ead032 Implement Second Brain anonymous corpus architecture (Issue #119) (#121) (43 minutes ago)
+- fb00eeb Add Papers and Articles as Knowledge Graph nodes (Issue #105) (#109) (2 hours ago)
+- 4ebfa7a Add entity resolution with fork-with-attribution for notes (Issue #101) (#117) (2 hours ago)
+**Commit Count (30 days):**
+- Total commits: 92
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 159147
+- Lines deleted: 4280
+
+---
+
