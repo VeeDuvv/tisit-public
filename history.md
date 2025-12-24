@@ -1244,3 +1244,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Wed Dec 24 09:03:41 UTC 2025
+
+**Recent Commits:**
+- fb00eeb Add Papers and Articles as Knowledge Graph nodes (Issue #105) (#109) (11 seconds ago)
+- 4ebfa7a Add entity resolution with fork-with-attribution for notes (Issue #101) (#117) (2 minutes ago)
+- b052212 Fix CSP blocking inline scripts by removing nonce requirement (8 days ago)
+- 0a51ec1 Fix graph node z-index so selected/hovered neighbors appear above faded nodes (8 days ago)
+- 14eb914 Fix browse page CSP violation with external JS event handlers (8 days ago)
+**Commit Count (30 days):**
+- Total commits: 92
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 88607
+- Lines deleted: 4330
+
+---
+
