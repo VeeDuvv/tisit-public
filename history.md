@@ -1397,3 +1397,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Mon Dec 29 01:32:36 UTC 2025
+
+**Recent Commits:**
+- b28f8f7 Merge pull request #124 from VeeDuvv/entity-resolution-phase2 (4 days ago)
+- 165a670 feat(entity-resolution): Add aggregate similarity for homonym detection (Phase 3) (4 days ago)
+- 17c6cf9 feat(entity-resolution): Extend to Paper, Article, Focus, and Radar flows (Phase 2) (5 days ago)
+- f3cb986 docs: Add deployment flow documentation to CLAUDE.md (5 days ago)
+- edf2108 Fix: Handle null article.title in browse page template (5 days ago)
+**Commit Count (30 days):**
+- Total commits: 78
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 89912
+- Lines deleted: 3941
+
+---
+
