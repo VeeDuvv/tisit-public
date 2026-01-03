@@ -1499,3 +1499,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Jan  3 17:07:04 UTC 2026
+
+**Recent Commits:**
+- 4038372 fix: Correct note view URL from /note/ to /viewNote/ (17 seconds ago)
+- b28f8f7 Merge pull request #124 from VeeDuvv/entity-resolution-phase2 (10 days ago)
+- 165a670 feat(entity-resolution): Add aggregate similarity for homonym detection (Phase 3) (10 days ago)
+- 17c6cf9 feat(entity-resolution): Extend to Paper, Article, Focus, and Radar flows (Phase 2) (10 days ago)
+- f3cb986 docs: Add deployment flow documentation to CLAUDE.md (10 days ago)
+**Commit Count (30 days):**
+- Total commits: 49
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 8221
+- Lines deleted: 996
+
+---
+
