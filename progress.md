@@ -1,21 +1,21 @@
 # TISIT Development Progress
 
-Last Updated: Mon Jan  5 01:33:04 UTC 2026
+Last Updated: Mon Jan  5 02:59:35 UTC 2026
 
 ## Recent Commits
-- dcf02c2 Add Twitter URL support to home page search bar (Issue #120) (#137) (27 hours ago)
-- 05aa6f6 Standardize URL routes to kebab-case (Issue #135) (#136) (27 hours ago)
-- 17e7adc Add Twitter/X.com ingestion feature (Issue #127) (#132) (28 hours ago)
-- 80da169 Merge pull request #131 from VeeDuvv/issue-130-flash-message-ux (31 hours ago)
-- 1ab7de3 Simplify flash messages and add auto-dismiss (Issue #130) (31 hours ago)
-- 6064502 Merge pull request #129 from VeeDuvv/issue-128-focus-mode (31 hours ago)
-- 81adb5e feat(viewNote): Add Focus Mode for distraction-free reading (#128) (31 hours ago)
-- db4b752 feat(entity-resolution): Add lemmatization for term matching (Phase 4) (32 hours ago)
-- 4038372 fix: Correct note view URL from /note/ to /viewNote/ (32 hours ago)
-- b28f8f7 Merge pull request #124 from VeeDuvv/entity-resolution-phase2 (11 days ago)
+- 019ad57 Add source=search to home.html and navigation.py (#138) (2 hours ago)
+- 2b153e1 Add source=graph to links in graph-viz.js (#138) (2 hours ago)
+- 9485fe8 Add source=browse to links in all_knowledge.html (#138) (2 hours ago)
+- d02c09b Update view_patent.html to use NavigationContext (#138) (2 hours ago)
+- 7ee628d Update view_tweet.html to use NavigationContext (#138) (2 hours ago)
+- 376b024 Update view_note.html to use NavigationContext (#138) (2 hours ago)
+- 6d338a6 Update view_paper.html to use NavigationContext (#138) (2 hours ago)
+- 7bb1aa2 Update view_article.html to use NavigationContext (#138) (2 hours ago)
+- c5e656f Register navigation context processor (#138) (2 hours ago)
+- c416a2a Add NavigationContext module for context-aware navigation (#138) (3 hours ago)
 ## Commit Activity (Last 30 Days)
-- Total commits: 54
+- Total commits: 64
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 10699
-- Lines deleted: 1252
+- Lines added: 10876
+- Lines deleted: 1287
