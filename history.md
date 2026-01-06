@@ -1941,3 +1941,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Tue Jan  6 17:04:28 UTC 2026
+
+**Recent Commits:**
+- 91667e3 Add SSL fallback for article fetching (fixes foundationcapital.com) (17 seconds ago)
+- 8319749 Fix article deletion with raw SQL to avoid pgvector type issue (15 minutes ago)
+- 6893139 Auto-import concepts when articles/papers are processed (Issue #141) (#151) (24 minutes ago)
+- 06604ef Merge pull request #150 from VeeDuvv/issue-138-navigation-context (3 hours ago)
+- 9bc6308 Fix navigation context for back buttons (Issue #138) (3 hours ago)
+**Commit Count (30 days):**
+- Total commits: 63
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 91292
+- Lines deleted: 1212
+
+---
+

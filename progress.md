@@ -1,21 +1,21 @@
 # TISIT Development Progress
 
-Last Updated: Tue Jan  6 16:49:48 UTC 2026
+Last Updated: Tue Jan  6 17:04:25 UTC 2026
 
 ## Recent Commits
-- 8319749 Fix article deletion with raw SQL to avoid pgvector type issue (14 seconds ago)
-- 6893139 Auto-import concepts when articles/papers are processed (Issue #141) (#151) (9 minutes ago)
+- 91667e3 Add SSL fallback for article fetching (fixes foundationcapital.com) (14 seconds ago)
+- 8319749 Fix article deletion with raw SQL to avoid pgvector type issue (15 minutes ago)
+- 6893139 Auto-import concepts when articles/papers are processed (Issue #141) (#151) (24 minutes ago)
 - 06604ef Merge pull request #150 from VeeDuvv/issue-138-navigation-context (3 hours ago)
 - 9bc6308 Fix navigation context for back buttons (Issue #138) (3 hours ago)
 - a868fd0 Use alert() for duplicate message to guarantee visibility (Issue #147) (20 hours ago)
-- d1b847f Make duplicate messages more visible with green checkmark (Issue #147) (20 hours ago)
+- d1b847f Make duplicate messages more visible with green checkmark (Issue #147) (21 hours ago)
 - 77e82e8 Fix tweet handling in home.html inline JS (Issue #147) (21 hours ago)
 - 4313d19 Add tweet handling to home.js for duplicate messages (Issue #147) (22 hours ago)
 - fcb6521 Merge pull request #148 from VeeDuvv/issue-147-tweet-fixes (22 hours ago)
-- a8f304c Add Tweets tab to Browse page (Issue #147) (22 hours ago)
 ## Commit Activity (Last 30 Days)
-- Total commits: 64
+- Total commits: 63
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 173154
-- Lines deleted: 1210
+- Lines added: 91292
+- Lines deleted: 1212
