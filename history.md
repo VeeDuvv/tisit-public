@@ -1924,3 +1924,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Tue Jan  6 16:49:49 UTC 2026
+
+**Recent Commits:**
+- 8319749 Fix article deletion with raw SQL to avoid pgvector type issue (15 seconds ago)
+- 6893139 Auto-import concepts when articles/papers are processed (Issue #141) (#151) (9 minutes ago)
+- 06604ef Merge pull request #150 from VeeDuvv/issue-138-navigation-context (3 hours ago)
+- 9bc6308 Fix navigation context for back buttons (Issue #138) (3 hours ago)
+- a868fd0 Use alert() for duplicate message to guarantee visibility (Issue #147) (20 hours ago)
+**Commit Count (30 days):**
+- Total commits: 64
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 173154
+- Lines deleted: 1210
+
+---
+
