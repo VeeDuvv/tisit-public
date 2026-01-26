@@ -2434,3 +2434,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Mon Jan 26 12:39:25 UTC 2026
+
+**Recent Commits:**
+- 02f79ed Merge pull request #182 from VeeDuvv/issue-176-podcast-support (9 seconds ago)
+- 96f32c4 Add podcast episode support (#176) (33 seconds ago)
+- 686c94d Merge pull request #181 from VeeDuvv/issue-175-google-news-fix (2 minutes ago)
+- 2d65704 Fix Google News URL resolution in Deep Dive and Radar Sweep (#175) (2 minutes ago)
+- c48e2db Remove Chroma fallback, extend embeddings to books/videos (closes #14) (2 weeks ago)
+**Commit Count (30 days):**
+- Total commits: 56
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 16977
+- Lines deleted: 1771
+
+---
+
