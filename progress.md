@@ -1,6 +1,6 @@
 # TISIT Development Progress
 
-Last Updated: Wed Feb 25 01:33:36 UTC 2026
+Last Updated: Thu Feb 26 01:33:26 UTC 2026
 
 ## Recent Commits
 - d12c550 Merge pull request #185 from VeeDuvv/issue-184-url-resolver-agent (4 weeks ago)
@@ -14,8 +14,8 @@ Last Updated: Wed Feb 25 01:33:36 UTC 2026
 - 2d65704 Fix Google News URL resolution in Deep Dive and Radar Sweep (#175) (4 weeks ago)
 - c48e2db Remove Chroma fallback, extend embeddings to books/videos (closes #14) (7 weeks ago)
 ## Commit Activity (Last 30 Days)
-- Total commits: 9
+- Total commits: 3
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 3988
-- Lines deleted: 142
+- Lines added: 977
+- Lines deleted: 115
