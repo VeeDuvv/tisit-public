@@ -1,21 +1,21 @@
 # TISIT Development Progress
 
-Last Updated: Sun Mar  1 17:35:45 UTC 2026
+Last Updated: Sun Mar  1 22:31:51 UTC 2026
 
 ## Recent Commits
-- 1cf3542 Merge pull request #193 from VeeDuvv/issue-191-192-context-aware-term-matching (8 seconds ago)
-- 6019f32 Add unit tests for context-aware term matching (#192) (2 hours ago)
-- 7c30f0b Use context-aware term matching across all view routes and templates (#192) (2 hours ago)
-- aaef08e Fix 500 crash on /add-note when note.description is NULL (#191) (2 hours ago)
-- 1033025 Add build_user_terms_map() and resolve_term_in_map() for context-aware term matching (#192) (2 hours ago)
-- a62a3ca Fix workflow: avoid multi-line JSON in GITHUB_OUTPUT (#186) (3 hours ago)
-- e4e7da3 Merge pull request #187 from VeeDuvv/issue-186-staging-dyno-manager (3 hours ago)
-- dc405a4 Add staging automation docs and update CLAUDE.md (#186) (9 days ago)
-- 21ca451 Add local staging management script (#186) (9 days ago)
-- 36740a9 Add GitHub Actions workflow for staging dyno management (#186) (9 days ago)
+- ac6f6f4 Merge pull request #194 from VeeDuvv/issue-189-forgot-password (9 seconds ago)
+- 9bab615 Add local dev port guidance to CLAUDE.md (#189) (73 seconds ago)
+- f24c64b Fix naive/aware datetime comparison and add inline flash messages (#189) (77 seconds ago)
+- 964aac6 Add unit tests for password reset feature (#189) (2 hours ago)
+- 36a8628 Add forgot password UI templates (#189) (2 hours ago)
+- 753120d Add forgot-password and reset-password routes (#189) (2 hours ago)
+- 54a5b56 Add send_password_reset_email via Resend API (#189) (2 hours ago)
+- caa487b Add token utilities for password reset (#189) (2 hours ago)
+- 17d3797 Add password_changed_at column to User model (#189) (2 hours ago)
+- 1cf3542 Merge pull request #193 from VeeDuvv/issue-191-192-context-aware-term-matching (5 hours ago)
 ## Commit Activity (Last 30 Days)
-- Total commits: 10
+- Total commits: 19
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 828
-- Lines deleted: 68
+- Lines added: 1487
+- Lines deleted: 73
