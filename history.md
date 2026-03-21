@@ -3726,3 +3726,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Mar 21 20:27:02 UTC 2026
+
+**Recent Commits:**
+- f2589b2 Merge pull request #212 from VeeDuvv/issue-202-cli-radar (15 seconds ago)
+- 3593b9d Add CLI radar commands: status, topic add/list/delete, run, source accept/ignore (#202) (32 seconds ago)
+- 55eac4e Add radar sweep API endpoints for watch topics, runs, and source triage (#202) (38 seconds ago)
+- 77cfdab Merge pull request #211 from VeeDuvv/issue-202-cli-chat (5 minutes ago)
+- 2c221f9 Add CLI chat commands: ask (one-shot) and interactive REPL (#202) (5 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 72
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 12824
+- Lines deleted: 1002
+
+---
+
