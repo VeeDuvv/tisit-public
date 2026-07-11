@@ -1,8 +1,9 @@
 # TISIT Development Progress
 
-Last Updated: Sat Jul 11 04:08:07 UTC 2026
+Last Updated: Sat Jul 11 12:30:41 UTC 2026
 
 ## Recent Commits
+- 492639b Fix malformed reference URLs from agent output (#288) (#289) (9 seconds ago)
 - a8194ef Fix Celery crash-loop and Flask-SocketIO incompatibility (#281) (#282) (6 weeks ago)
 - 466044a Merge pull request #272 from VeeDuvv/issue-271-content-first-redesign (4 months ago)
 - 29cb47d Content-first redesign for View Note and Home pages (#271) (4 months ago)
@@ -12,10 +13,9 @@ Last Updated: Sat Jul 11 04:08:07 UTC 2026
 - 69fce6b Add admin audit logging, unify role system, fix governance gaps (#239) (#269) (4 months ago)
 - 02c65c1 Fix Celery serialization, SocketIO auth, and unbounded query params (#238) (#268) (4 months ago)
 - c5231b0 Fix Run Radar button visibility for God/IKTO tiers (#266) (4 months ago)
-- d9f573f Fix Radar tier display to use effective plan code (#266) (4 months ago)
 ## Commit Activity (Last 30 Days)
-- Total commits: 0
+- Total commits: 1
 
 ## Lines Added/Deleted (Last 30 Days)
-- Lines added: 0
-- Lines deleted: 0
+- Lines added: 315
+- Lines deleted: 12
