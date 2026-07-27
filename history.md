@@ -6616,3 +6616,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Mon Jul 27 04:32:15 UTC 2026
+
+**Recent Commits:**
+- bc7cd08 Add passive URL rot detection for reference links (#290) (#291) (2 weeks ago)
+- 4aa9356 Trigger rebuild after manual migration fix (2 weeks ago)
+- 492639b Fix malformed reference URLs from agent output (#288) (#289) (2 weeks ago)
+- a8194ef Fix Celery crash-loop and Flask-SocketIO incompatibility (#281) (#282) (8 weeks ago)
+- 466044a Merge pull request #272 from VeeDuvv/issue-271-content-first-redesign (4 months ago)
+**Commit Count (30 days):**
+- Total commits: 3
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 413
+- Lines deleted: 13
+
+---
+
