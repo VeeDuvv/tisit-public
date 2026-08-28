@@ -1,6 +1,6 @@
 # TISIT Development Progress
 
-Last Updated: Thu Aug 27 10:50:03 UTC 2026
+Last Updated: Fri Aug 28 12:25:47 UTC 2026
 
 ## Recent Commits
 - bc7cd08 Add passive URL rot detection for reference links (#290) (#291) (7 weeks ago)
