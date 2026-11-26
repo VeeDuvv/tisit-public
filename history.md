@@ -9098,3 +9098,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 18:37:20 UTC 2026
+
+**Recent Commits:**
+- b31f0a5 Fix horizontal overflow: neutralize Bootstrap row margins, reduce button padding on mobile (10 seconds ago)
+- d9a444b Add overflow-x: hidden to body to prevent horizontal scroll on mobile (12 minutes ago)
+- 0a675e3 Fix text clipping on mobile: add word-wrap and constrain container width (14 minutes ago)
+- 28fea55 Fix hero heading overflow on small phones - use !important to override Bootstrap display-3 (17 minutes ago)
+- f220698 Fix landing page text overflow on mobile (#310) (18 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 33
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2048
+- Lines deleted: 16281
+
+---
+
