@@ -8894,3 +8894,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 16:56:53 UTC 2026
+
+**Recent Commits:**
+- 70dcaa1 Move daily sweep to Celery Beat at 10:00 UTC weekdays (11 seconds ago)
+- 7a3fd83 Remove staging environment and simplify deployment flow (5 minutes ago)
+- 19776fe Restore flask db upgrade in Procfile release command (10 minutes ago)
+- 5eb05b8 Stamp migration head on release to fix DuplicateTable error (11 minutes ago)
+- f5356ad Merge pull request #300 from VeeDuvv/issue-299-digest-celery-task (29 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 16
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 1922
+- Lines deleted: 570
+
+---
+
