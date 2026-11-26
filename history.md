@@ -8809,3 +8809,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 16:27:52 UTC 2026
+
+**Recent Commits:**
+- 0d8bc4b Merge pull request #298 from VeeDuvv/issue-297-digest-email-template (9 seconds ago)
+- c098650 Merge pull request #296 from VeeDuvv/issue-295-digest-ranking-service (15 seconds ago)
+- 8f46c4a Add Radar digest email template, DB model, and send function (#297) (15 hours ago)
+- ef51c85 Fix preview script seed logic and GPT-5 temperature compatibility (#295) (15 hours ago)
+- ec651f6 Add digest ranking service and preview script for Radar daily digest (#295) (15 hours ago)
+**Commit Count (30 days):**
+- Total commits: 10
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 1516
+- Lines deleted: 175
+
+---
+
