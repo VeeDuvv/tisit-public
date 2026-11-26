@@ -9081,3 +9081,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 18:25:21 UTC 2026
+
+**Recent Commits:**
+- d9a444b Add overflow-x: hidden to body to prevent horizontal scroll on mobile (10 seconds ago)
+- 0a675e3 Fix text clipping on mobile: add word-wrap and constrain container width (2 minutes ago)
+- 28fea55 Fix hero heading overflow on small phones - use !important to override Bootstrap display-3 (5 minutes ago)
+- f220698 Fix landing page text overflow on mobile (#310) (6 minutes ago)
+- e3217e1 Merge pull request #311 from VeeDuvv/issue-310-mobile-css-fixes (14 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 32
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2030
+- Lines deleted: 16280
+
+---
+
