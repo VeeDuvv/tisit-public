@@ -8928,3 +8928,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 17:25:33 UTC 2026
+
+**Recent Commits:**
+- ed8c80e Fix email template rendering outside request context (#297) (11 seconds ago)
+- 7a511c3 Fix digest source matching: use topic IDs not names (#295) (3 minutes ago)
+- 70dcaa1 Move daily sweep to Celery Beat at 10:00 UTC weekdays (29 minutes ago)
+- 7a3fd83 Remove staging environment and simplify deployment flow (33 minutes ago)
+- 19776fe Restore flask db upgrade in Procfile release command (39 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 18
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 1929
+- Lines deleted: 575
+
+---
+
