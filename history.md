@@ -8843,3 +8843,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 16:45:58 UTC 2026
+
+**Recent Commits:**
+- 5eb05b8 Stamp migration head on release to fix DuplicateTable error (12 seconds ago)
+- f5356ad Merge pull request #300 from VeeDuvv/issue-299-digest-celery-task (18 minutes ago)
+- 0d8bc4b Merge pull request #298 from VeeDuvv/issue-297-digest-email-template (18 minutes ago)
+- c098650 Merge pull request #296 from VeeDuvv/issue-295-digest-ranking-service (18 minutes ago)
+- e5c0f54 Add Celery task and scheduling for Radar daily digest (#299) (15 hours ago)
+**Commit Count (30 days):**
+- Total commits: 13
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 1912
+- Lines deleted: 177
+
+---
+
