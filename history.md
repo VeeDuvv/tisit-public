@@ -9064,3 +9064,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 18:23:27 UTC 2026
+
+**Recent Commits:**
+- 0a675e3 Fix text clipping on mobile: add word-wrap and constrain container width (9 seconds ago)
+- 28fea55 Fix hero heading overflow on small phones - use !important to override Bootstrap display-3 (3 minutes ago)
+- f220698 Fix landing page text overflow on mobile (#310) (4 minutes ago)
+- e3217e1 Merge pull request #311 from VeeDuvv/issue-310-mobile-css-fixes (12 minutes ago)
+- 7a685b1 Mobile CSS quick fixes: touch targets, responsive fonts, simplified nav (#310) (12 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 31
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2029
+- Lines deleted: 16280
+
+---
+
