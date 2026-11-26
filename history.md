@@ -8962,3 +8962,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Thu Nov 26 17:57:07 UTC 2026
+
+**Recent Commits:**
+- 453b43c Merge pull request #307 from VeeDuvv/issue-302-remove-focus-bubbles (11 seconds ago)
+- 20d9d14 Remove Deep Dive / Focus Bubbles feature (#302) (23 seconds ago)
+- c476c3c Merge pull request #306 from VeeDuvv/issue-301-remove-knowledge-graph (15 minutes ago)
+- 9b0b1fb Remove Knowledge Graph visualization feature (#301) (15 minutes ago)
+- ed8c80e Fix email template rendering outside request context (#297) (32 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 22
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 1934
+- Lines deleted: 12865
+
+---
+
