@@ -9132,3 +9132,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Fri Nov 27 09:20:55 UTC 2026
+
+**Recent Commits:**
+- f4196e4 Reduce hero h1 to 1.375rem on mobile to fit 375px viewport (#310) (15 hours ago)
+- b31f0a5 Fix horizontal overflow: neutralize Bootstrap row margins, reduce button padding on mobile (15 hours ago)
+- d9a444b Add overflow-x: hidden to body to prevent horizontal scroll on mobile (15 hours ago)
+- 0a675e3 Fix text clipping on mobile: add word-wrap and constrain container width (15 hours ago)
+- 28fea55 Fix hero heading overflow on small phones - use !important to override Bootstrap display-3 (15 hours ago)
+**Commit Count (30 days):**
+- Total commits: 34
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2050
+- Lines deleted: 16285
+
+---
+
