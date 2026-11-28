@@ -9319,3 +9319,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Nov 28 14:59:04 UTC 2026
+
+**Recent Commits:**
+- c1fc4ee Merge pull request #329 from VeeDuvv/issue-328-digest-daily (8 seconds ago)
+- 3444bbe Radar Digest: send daily including weekends (#328) (24 seconds ago)
+- d3d65bb Merge pull request #327 from VeeDuvv/issue-326-fix-embedding-columns (15 hours ago)
+- dd5ca92 Fix cascading search failure: isolate each content type search (#326) (15 hours ago)
+- 6a1dee4 Chat: use LLM for conversational responses even without KB context (#324) (15 hours ago)
+**Commit Count (30 days):**
+- Total commits: 53
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2996
+- Lines deleted: 16655
+
+---
+
