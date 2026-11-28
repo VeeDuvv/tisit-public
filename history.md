@@ -9268,3 +9268,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Nov 28 00:08:41 UTC 2026
+
+**Recent Commits:**
+- 6a1dee4 Chat: use LLM for conversational responses even without KB context (#324) (13 seconds ago)
+- c472b0e Fix pgvector SQL queries: cast query vectors to vector type (#324) (5 minutes ago)
+- 76d732e Merge pull request #325 from VeeDuvv/issue-324-fix-rag-e2e (2 hours ago)
+- 3ece121 Fix pgvector compatibility, upgrade RAG chat to Claude (#324) (2 hours ago)
+- a8c711b Merge pull request #323 from VeeDuvv/issue-322-chat-rag-fixes (2 hours ago)
+**Commit Count (30 days):**
+- Total commits: 49
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2960
+- Lines deleted: 16578
+
+---
+
