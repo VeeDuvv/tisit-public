@@ -9353,3 +9353,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Nov 28 15:18:07 UTC 2026
+
+**Recent Commits:**
+- 4cde966 Merge pull request #333 from VeeDuvv/issue-332-fix-radar-urls (9 seconds ago)
+- d1702ae Fix radar results layout: truncate URLs, prevent button overflow (#332) (26 seconds ago)
+- 0cbe00a Merge pull request #331 from VeeDuvv/issue-330-quiet-day-digest (8 minutes ago)
+- 6e0c1d0 Radar Digest: send 'quiet day' recap when no new items (#330) (9 minutes ago)
+- c1fc4ee Merge pull request #329 from VeeDuvv/issue-328-digest-daily (19 minutes ago)
+**Commit Count (30 days):**
+- Total commits: 57
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 3083
+- Lines deleted: 16667
+
+---
+
