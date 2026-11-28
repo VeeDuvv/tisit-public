@@ -9285,3 +9285,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Nov 28 00:21:03 UTC 2026
+
+**Recent Commits:**
+- d3d65bb Merge pull request #327 from VeeDuvv/issue-326-fix-embedding-columns (10 seconds ago)
+- dd5ca92 Fix cascading search failure: isolate each content type search (#326) (28 seconds ago)
+- 6a1dee4 Chat: use LLM for conversational responses even without KB context (#324) (13 minutes ago)
+- c472b0e Fix pgvector SQL queries: cast query vectors to vector type (#324) (17 minutes ago)
+- 76d732e Merge pull request #325 from VeeDuvv/issue-324-fix-rag-e2e (2 hours ago)
+**Commit Count (30 days):**
+- Total commits: 51
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 2981
+- Lines deleted: 16632
+
+---
+
