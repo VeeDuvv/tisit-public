@@ -9336,3 +9336,20 @@ This file automatically records snapshot entries each time the private repo publ
 
 ---
 
+## Sat Nov 28 15:09:52 UTC 2026
+
+**Recent Commits:**
+- 0cbe00a Merge pull request #331 from VeeDuvv/issue-330-quiet-day-digest (8 seconds ago)
+- 6e0c1d0 Radar Digest: send 'quiet day' recap when no new items (#330) (25 seconds ago)
+- c1fc4ee Merge pull request #329 from VeeDuvv/issue-328-digest-daily (11 minutes ago)
+- 3444bbe Radar Digest: send daily including weekends (#328) (11 minutes ago)
+- d3d65bb Merge pull request #327 from VeeDuvv/issue-326-fix-embedding-columns (15 hours ago)
+**Commit Count (30 days):**
+- Total commits: 55
+
+**Lines Added/Deleted (30 days):**
+- Lines added: 3059
+- Lines deleted: 16661
+
+---
+
